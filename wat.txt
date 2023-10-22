@@ -1,0 +1,29 @@
+"D:/Logs\\Smaug.Server\\Smaug.Server.2023-10-16.0.zip" -- Zip
+2023-10-16 12:16:08.8901 [18] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 12:16:09.1243 [10] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 12:16:09.2801 [10] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 12:16:09.2811 [10] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 12:59:21.4292 [10] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 12:59:21.4865 [10] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 12:59:21.5506 [19] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 12:59:21.5506 [19] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 13:02:08.6927 [33] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:02:08.8765 [33] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:02:09.0033 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 13:02:09.0033 [34] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 13:08:35.8601 [8] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:08:36.0943 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:08:36.2410 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 13:08:36.2410 [34] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 13:09:53.0337 [32] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:09:53.2447 [10] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:09:53.4054 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 13:09:53.4054 [34] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 13:13:34.6373 [18] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:13:35.1008 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:13:35.2672 [34] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 13:13:35.2672 [34] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
+2023-10-16 13:21:12.2617 [7] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:21:12.3107 [7] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:RS1@XLON" in the MasterInstrumentCache!
+2023-10-16 13:21:12.3758 [7] WARN Smaug.Server.Instruments.MasterInstrumentCacheService - GetInstrumentFromTicker: Did not find Ticker: "E:BLT@XLON" in the MasterInstrumentCache!
+2023-10-16 13:21:12.3758 [7] INFO Smaug.Server.Live.TheoPortfolioService - GetTheoPortfolioSnapshotAsync: Instrument Missing, Position: Ticker: E:BLT@XLON, TradArea: Europe, TheoQuantity: 0,004223, ActQuantity: 0,000000
